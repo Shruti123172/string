@@ -1,0 +1,12 @@
+
+8 lines (8 sloc)  205 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s ="ishu";
+system.out.println(s.contains("sh"));
+system.out.println(s.contains("ru"));
+system.out.println(s.contains("ti"));
+}
+}
+© 2021 GitHub, Inc.
