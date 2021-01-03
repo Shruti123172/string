@@ -1,0 +1,10 @@
+  
+8 lines (7 sloc)  151 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s1 =  "shruti";
+string s2 = "shruti";
+system .out.println(s1.compareTo(s2));
+}
+© 2021 GitHub, Inc.
