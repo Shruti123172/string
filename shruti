@@ -1,0 +1,14 @@
+12 lines (11 sloc)  191 Bytes
+  
+10 lines (10 sloc)  164 Bytes
+  
+public class main {
++ public static void main(string[] args)}
++ string s1 = "shruti";
++ string s2 = "shruti";
++ system.out.print(s1.compareTo(s2));
++ }
++ }
++
++
++
